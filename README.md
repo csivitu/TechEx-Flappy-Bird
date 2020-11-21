@@ -51,7 +51,7 @@
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `csivitu`, `TechEx-Flappy-Bird`, `twitter_handle`, `email` -->
 
-This projects was made to help beginners get started with python and pygame. It is a demo project for the workshop <strong>Introduction to python and pygame</strong> under [TechEX-3.0](https://techex.csivit.com/) conducted by [Atharva](https://github.com/Atharva-Gundawar) and [Dev](https://github.com/devashar13). TechEx-Flappy-Bird is an implementation of the widely popular mobile game known by the same name.
+This projects was made to help beginners get started with python and pygame. It is a demo project for the workshop <strong>Introduction to python and pygame</strong> under [TechEX-3.0](https://techex.csivit.com/) whose speakers were [Atharva](https://github.com/Atharva-Gundawar) and [Dev](https://github.com/devashar13). TechEx-Flappy-Bird is an implementation of the widely popular mobile game known by the same name.
 
 
 ### Built With
