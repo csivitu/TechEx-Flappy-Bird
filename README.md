@@ -4,23 +4,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo">
+  <a href="https://github.com/csivitu/TechEx-Flappy-Bird">
     <img src="https://csivit.com/images/favicon.png" alt="Logo" width="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">TechEx-Flappy-Bird</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+     Flappy bird using python and pygame 
     <br />
-    <a href="https://github.com/csivitu/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/csivitu/TechEx-Flappy-Bird"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/csivitu/repo">View Demo</a>
+    <a href="https://github.com/csivitu/TechEx-Flappy-Bird">View Demo</a>
     ·
-    <a href="https://github.com/csivitu/repo/issues">Report Bug</a>
+    <a href="https://github.com/csivitu/TechEx-Flappy-Bird/issues">report Bug</a>
     ·
-    <a href="https://github.com/csivitu/repo/issues">Request Feature</a>
+    <a href="https://github.com/csivitu/TechEx-Flappy-Bird/issues">Request Feature</a>
   </p>
 </p>
 
@@ -45,18 +45,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Here's a blank template to get started:
+<!-- Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+`csivitu`, `TechEx-Flappy-Bird`, `twitter_handle`, `email` -->
+
+This projects was made to help beginners get started with python and pygame. It is a demo project for the workshop <strong>Introduction to python and pygame</strong> under [TechEX-3.0](https://techex.csivit.com/) conducted by [Atharva](https://github.com/Atharva-Gundawar) and [Dev](https://github.com/devashar13). TechEx-Flappy-Bird is an implementation of the widely popular mobile game known by the same name.
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Python](https://www.python.org/)
+* [PyGame](https://www.pygame.org/)
 
 
 
@@ -67,21 +68,40 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* python
+
+For Ubuntu/Debian:
+
 ```sh
-npm install npm@latest -g
+sudo apt install -y python3
 ```
+
+For ArchLinux/Manjaro:
+
+```sh
+sudo pacman -Sy python3
+```
+
+For windows or mac:
+
+Visit the download page [here](https://www.python.org/downloads/).
+
+<!-- * pygame
+
+```sh
+pip install pygame # or pip3 install pygame
+``` -->
 
 ### Installation
  
-1. Clone the repo
+1. Clone the TechEx-Flappy-Bird
 ```sh
-git clone https://github.com/github_username/repo.git
+git clone https://github.com/csivitu/TechEx-Flappy-Bird.git
+cd TechEx-Flappy-Bird
 ```
-2. Install NPM packages
+2. Install the dependencies 
 ```sh
-npm install
+pip install -r requirements.txt # or pip3 install -r requirements.txt
 ```
 
 
@@ -89,16 +109,17 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Start the game by the following command:
+```sh
+python index.py # or python3 index.py
+```
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/csivitu/TechEx-Flappy-Bird/issues) for a list of proposed features (and known issues).
 
 
 
@@ -128,4 +149,4 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 [csivitu-shield]: https://img.shields.io/badge/csivitu-csivitu-blue
 [csivitu-url]: https://csivit.com
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/csivitu/repo/issues
+[issues-url]: https://github.com/csivitu/TechEx-Flappy-Bird/issues
