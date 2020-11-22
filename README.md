@@ -68,7 +68,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* python
+* [Python](https://www.python.org/)
 
 For Ubuntu/Debian:
 
@@ -82,7 +82,7 @@ For ArchLinux/Manjaro:
 sudo pacman -Sy python3
 ```
 
-For windows or mac:
+For Windows or Mac:
 
 Visit the download page [here](https://www.python.org/downloads/).
 
@@ -94,11 +94,12 @@ pip install pygame # or pip3 install pygame
 
 ### Installation
  
-1. Clone the TechEx-Flappy-Bird
+1. Clone the TechEx-Flappy-Bird repository.
 ```sh
 git clone https://github.com/csivitu/TechEx-Flappy-Bird.git
 cd TechEx-Flappy-Bird
 ```
+
 2. Install the dependencies 
 ```sh
 pip install -r requirements.txt # or pip3 install -r requirements.txt
@@ -150,5 +151,5 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [csivitu-shield]: https://img.shields.io/badge/csivitu-csivitu-blue
 [csivitu-url]: https://csivit.com
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/csivitu/TechEx-Flappy-Bird.svg?style=flat-square
 [issues-url]: https://github.com/csivitu/TechEx-Flappy-Bird/issues
