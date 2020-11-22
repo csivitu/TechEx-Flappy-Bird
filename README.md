@@ -111,8 +111,10 @@ pip install -r requirements.txt # or pip3 install -r requirements.txt
 
 Start the game by the following command:
 ```sh
-python index.py # or python3 index.py
+python sectionX.py # or python3 sectionX.py
 ```
+
+> Replace X by 1, 2, 3 or 4. `section4.py` contains the fully completed game.
 
 
 
